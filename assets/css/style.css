@@ -1,0 +1,50 @@
+body {
+    
+}
+
+#name {
+    background: #4aaaa5;
+    color: white;
+    padding: 20px;
+    display: inline-block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#body {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    background: white;
+    border: 1px solid silver;
+    padding: 30px 20px 30px 20px;
+}
+
+#top {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+}
+
+#navigation {
+    float: right;
+    display: inline-block;
+    background: white;
+    border: 1px solid grey;
+}
+
+#link {
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+}
+
+#mepic {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#about_me {
+    display: inline-flexbox;
+    color: #4aaaa5;
+}
