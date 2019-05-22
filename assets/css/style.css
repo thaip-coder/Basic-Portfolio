@@ -4,9 +4,7 @@
     margin-right: auto;
 }
 
-/*
-Top
-*/
+/* Top */
 
 #header {
     border-bottom: 2px solid silver;
@@ -52,6 +50,11 @@ body {
     background-size: 100% 100%;
 }
 
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 0.25in;
+}
+
 #content {
     border: 1px solid grey;
     padding: 30px 20px 30px 20px;
@@ -74,11 +77,6 @@ body {
     margin-right: 15px;
     margin-bottom: 8px;
     margin-top: 5px;
-}
-
-p {
-    font-family: Arial, Helvetica, sans-serif;
-    line-height: 0.25in;
 }
 
 /* Footer */
