@@ -7,6 +7,7 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 0.25in;
     text-indent: .35in;
+    color: #777;
 }
 
 .container {
@@ -18,16 +19,16 @@ p {
 /* Navigation */
 
 .header {
-    border-bottom: 2px solid silver;
+    border-bottom: 2px solid #ccc;
     display: inline-block;
     width: 100%;
-    background: white;
+    background: #fff;
 }
 
 .title {
     float: left;
     background: #4aaaa5;
-    color: white;
+    color: #fff;
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 20px;
     font-size: 1.5rem;
@@ -43,7 +44,7 @@ p {
 
 .link {
     text-decoration: none;
-    border-right: 1px solid lightgray;
+    border-right: 1px solid #ccc;
     padding-right: 10px;
     padding-left: 4px;
 }
@@ -56,17 +57,17 @@ p {
 /* Index Body */
 
 .content {
-    border: 1px solid grey;
+    border: 1px solid #ddd;
     padding: 30px 20px 30px 20px;
     margin-top: 35px;
     margin-bottom: 80px;
-    background: white;
+    background: #fff;
 }
 
 .bio {
     color: #4aaaa5;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    border-bottom: 2px solid grey;
+    border-bottom: 2px solid #ddd;
     padding-bottom: 30px;
     margin-bottom: 20px;
     font-size: 1.5rem;
@@ -82,18 +83,18 @@ p {
 /* Contact Body */
 
 .contactCont {
-    border: 1px solid grey;
+    border: 1px solid #ddd;
     padding: 30px 20px 20px 20px;
     margin-top: 35px;
     margin-bottom: 160px;
-    background: white;
+    background: #fff;
 }
 
 .formName {
     display: block;
     padding-bottom: 5px;
     font-family: Arial, Helvetica, sans-serif;
-    color: gray;
+    color: #777;
 }
 
 .form {
@@ -113,7 +114,7 @@ p {
 
 #submit {
     background: #4aaaa5;
-    color: white;
+    color: #fff;
     font-family: Arial, Helvetica, sans-serif;
     padding: 6px 18px 6px 18px;
     margin-top: 8px;
@@ -123,11 +124,11 @@ p {
 /* Portfolio Body */
 
 .portfolioCont {
-    border: 1px solid grey;
+    border: 1px solid #ddd;
     padding: 30px 20px 20px 20px;
     margin-top: 10px;
     margin-bottom: 30px;
-    background: white;
+    background: #fff;
 }
 
 .columns {
@@ -176,7 +177,7 @@ p {
     border-top: 5px solid #4aaaa5;
     padding-top: 40px;
     padding-bottom: 5px;
-    background: darkslategray;
-    color: white;
+    background: #666;
+    color: #fff;
     font-size: .7rem;
 }
