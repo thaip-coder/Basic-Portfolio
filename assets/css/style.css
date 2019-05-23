@@ -55,7 +55,7 @@ p {
 
 /* Index Body */
 
-#content {
+.content {
     border: 1px solid grey;
     padding: 30px 20px 30px 20px;
     margin-top: 35px;
@@ -81,7 +81,7 @@ p {
 
 /* Contact Body */
 
-#contactCont {
+.contactCont {
     border: 1px solid grey;
     padding: 30px 20px 20px 20px;
     margin-top: 35px;
@@ -130,7 +130,7 @@ p {
     background: white;
 }
 
-#columns {
+.columns {
     display: grid;
     grid-template-columns: 200px 200px;
     gap: 20px;
