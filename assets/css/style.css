@@ -122,7 +122,52 @@ p {
 
 /* Portfolio Body */
 
+.portfolioCont {
+    border: 1px solid grey;
+    padding: 30px 20px 20px 20px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    background: white;
+}
 
+#columns {
+    display: grid;
+    grid-template-columns: 200px 200px;
+    gap: 20px;
+}
+
+/*
+#portImg {
+    display: block;
+}
+
+#portImg2 {
+    display: inline-flexbox;
+}
+
+/*
+#buttons {
+    position: relative;
+    width: 50%
+}
+
+#buttons img {
+    width: 100%;
+    height: auto;
+}
+
+#buttons .btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background: #4aaaa5;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+} 
+*/
 
 /* Footer */
 
